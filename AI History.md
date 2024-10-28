@@ -7,6 +7,6 @@
 - 인공지능에 관련된 중요 개념 정리와 지난 60년의 발전 과정을 요약을 통한 AI 활용 및 연구 방향성 수립의 토대 설정
 4. 중요 컨셉 및 내용 요약
 - 인공지능 분류
-[AI Categorization](./images/AI_History_categorization of AI.png)
+![AI Categorization](./images/AI_History_Category.png)
 4. 결론 및 시사점(제언)
 7. 자신의 프로젝트에 반영할 부분
